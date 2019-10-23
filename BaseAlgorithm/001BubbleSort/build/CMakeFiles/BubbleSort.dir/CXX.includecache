@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/ImproveAlgorithm/BaseAlgorithm/001BubbleSort/src/BubbleSort.cpp
+iostream
+-
+
