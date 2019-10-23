@@ -1,10 +1,4 @@
-
-*
-!*.c
-!*.cpp
-!*.cxx
-!*.cc
-!*.h
-!Makefile
-!CMakelists.txt
+BaseAlgorithm/**/bin
+BaseAlgorithm/**/build
+.idea
 
