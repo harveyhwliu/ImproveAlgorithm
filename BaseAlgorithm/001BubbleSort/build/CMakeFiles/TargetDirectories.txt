@@ -1,3 +1,0 @@
-/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/ImproveAlgorithm/BaseAlgorithm/001BubbleSort/build/CMakeFiles/rebuild_cache.dir
-/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/ImproveAlgorithm/BaseAlgorithm/001BubbleSort/build/CMakeFiles/edit_cache.dir
-/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/ImproveAlgorithm/BaseAlgorithm/001BubbleSort/build/CMakeFiles/BubbleSort.dir
