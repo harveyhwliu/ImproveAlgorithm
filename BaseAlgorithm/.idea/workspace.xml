@@ -12,15 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001BubbleSort/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001BubbleSort/src/BubbleSort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/build/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/build/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/build/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/build/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002SelectSort/src/SelectSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004ShellSort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004ShellSort/src/ShellSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001BubbleSort/src/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/001BubbleSort/src/BubbleSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002SelectSort/src/SelectSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/002SelectSort/src/SelectSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003InsertSort/src/InsertSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/003InsertSort/src/InsertSort.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1SamDLhyS79Lq5KZA2WY9fPCxmB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,12 +65,12 @@
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/001BubbleSort/src" />
       <recent name="$PROJECT_DIR$/001BubbleSort/build" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,6 +118,7 @@
       <updated>1571809959800</updated>
       <workItem from="1571809962648" duration="804000" />
       <workItem from="1571841923368" duration="7747000" />
+      <workItem from="1571852879358" duration="4186000" />
     </task>
     <servers />
   </component>

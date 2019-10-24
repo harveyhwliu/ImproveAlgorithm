@@ -14,7 +14,7 @@
 /*
  * 数组中交换指定两个位置的数据
  * */
-int ArraySwapValue(int* array,int i,int j)
+void ArraySwapValue(int* array,int i,int j)
 {
     int temp;
     temp = array[i];
