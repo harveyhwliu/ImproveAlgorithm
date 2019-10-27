@@ -5,20 +5,18 @@
       <config projectName="BaseAlgorithm" targetName="BaseAlgorithm" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_DIR="build" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/004ShellSort/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004ShellSort/src/ShellSort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001BubbleSort/src/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/001BubbleSort/src/BubbleSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002SelectSort/src/SelectSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/002SelectSort/src/SelectSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003InsertSort/src/InsertSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/003InsertSort/src/InsertSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/006MergeSort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/006MergeSort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/006MergeSort/src/MergeSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/006MergeSort/src/MergeSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,6 +117,8 @@
       <workItem from="1571809962648" duration="804000" />
       <workItem from="1571841923368" duration="7747000" />
       <workItem from="1571852879358" duration="4186000" />
+      <workItem from="1572171134142" duration="4392000" />
+      <workItem from="1572175940540" duration="614000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,8 @@
  #1.cmake verson，指定cmake版本
- cmake_minimum_required(VERSION 3.2)
+ cmake_minimum_required(VERSION 3.1)
+
+ set(CMAKE_CXX FLAGS -fexec-charset=GBK)
+
  #2.project name，指定项目的名称，一般和项目的文件夹名称对应
  PROJECT(BaseAlgorithm)
  #3.head file path，头文件目录
@@ -27,3 +30,4 @@
 
  #7.add link library，添加可执行文件所需要的库，比如我们用到了libm.so（命名规则：lib+name+.so），就添加该库的名称
  TARGET_LINK_LIBRARIES(${PROJECT_NAME} m)
+
