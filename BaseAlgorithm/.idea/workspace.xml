@@ -12,10 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/007Heapsort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007Heapsort/src/Heapsort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006MergeSort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/006MergeSort/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006MergeSort/src/MergeSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/006MergeSort/src/MergeSort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,12 +63,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\代码库\CCPLUS\ImproveAlgorithm\BaseAlgorithm" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/001BubbleSort/src" />
       <recent name="$PROJECT_DIR$/001BubbleSort/build" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,12 +119,31 @@
       <workItem from="1571841923368" duration="7747000" />
       <workItem from="1571852879358" duration="4186000" />
       <workItem from="1572171134142" duration="4392000" />
-      <workItem from="1572175940540" duration="614000" />
+      <workItem from="1572175940540" duration="3649000" />
     </task>
+    <task id="LOCAL-00001" summary="update Merger Sort Algorithm">
+      <created>1572176632263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572176632263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -140,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update Merger Sort Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Merger Sort Algorithm" />
   </component>
 </project>
