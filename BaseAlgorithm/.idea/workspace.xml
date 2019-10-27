@@ -11,11 +11,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007Heapsort/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007Heapsort/src/Heapsort.cpp" afterDir="false" />
+    <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="update Bucket Sort Algorithm">
+      <change afterPath="$PROJECT_DIR$/008Bucketsort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008Bucketsort/src/Bucket.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007Heapsort/src/Heapsort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/007Heapsort/src/Heapsort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="harveyhwliu &lt;25802058@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IgnoredFileRootStore">
@@ -51,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -63,13 +70,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="I:\代码库\CCPLUS\ImproveAlgorithm\BaseAlgorithm" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/001BubbleSort/src" />
       <recent name="$PROJECT_DIR$/001BubbleSort/build" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="I:\代码库\CCPLUS\ImproveAlgorithm\BaseAlgorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -120,6 +127,7 @@
       <workItem from="1571852879358" duration="4186000" />
       <workItem from="1572171134142" duration="4392000" />
       <workItem from="1572175940540" duration="3649000" />
+      <workItem from="1572185872198" duration="5718000" />
     </task>
     <task id="LOCAL-00001" summary="update Merger Sort Algorithm">
       <created>1572176632263</created>
@@ -161,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update Merger Sort Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Merger Sort Algorithm" />
+    <MESSAGE value="update Bucket Sort Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Bucket Sort Algorithm" />
   </component>
 </project>
