@@ -14,7 +14,7 @@
  * 顺序查找:
  * 从数据结构线性表的一端开始，顺序扫描，依次将扫描到的结点关键字与给定值k相比较，若相等则表示查找成功；若扫描结束仍没有找到，表示查找失败。
  * */
-int SequenceSeach(int* array,int length,int search_key){
+int SequenceSearch(int* array,int length,int search_key){
     if(nullptr==array or length<=0){
         return -1;
     }
@@ -44,7 +44,7 @@ int main(int argc,char * argv[]){
     std::cout<<"Src Array:";
     PrintArrayValue(checkResArray,arrayLength);
 
-    int search_index = SequenceSeach(checkResArray,arrayLength,search_key);
+    int search_index = SequenceSearch(checkResArray,arrayLength,search_key);
     std::cout<<"search key = "<<search_key<<",and seach index res = "<<search_index<<std::endl;
 //    getchar();
     return 0;
