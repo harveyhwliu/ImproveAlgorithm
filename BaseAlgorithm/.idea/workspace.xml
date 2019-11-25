@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="BaseAlgorithm" targetName="BaseAlgorithm" />
+      <config projectName="FibonacciSearch" targetName="FibonacciSearch" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="" />
+    <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +67,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -87,13 +92,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.BaseAlgorithm">
-    <configuration name="BaseAlgorithm" type="CMakeRunConfiguration" factoryName="Application" editBeforeRun="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BaseAlgorithm" TARGET_NAME="BaseAlgorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BaseAlgorithm" RUN_TARGET_NAME="BaseAlgorithm">
+  <component name="RunManager" selected="CMake Application.FibonacciSearch">
+    <configuration name="BaseAlgorithm" type="CMakeRunConfiguration" factoryName="Application" editBeforeRun="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FibonacciSearch" TARGET_NAME="BaseAlgorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FibonacciSearch" RUN_TARGET_NAME="BaseAlgorithm">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C++" type="CMakeRunConfiguration" factoryName="Application" editBeforeRun="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BaseAlgorithm" TARGET_NAME="BubbleSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BaseAlgorithm" RUN_TARGET_NAME="BubbleSort">
+    <configuration name="C++" type="CMakeRunConfiguration" factoryName="Application" editBeforeRun="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FibonacciSearch" TARGET_NAME="BubbleSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FibonacciSearch" RUN_TARGET_NAME="BubbleSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSearch" type="CMakeRunConfiguration" factoryName="Application" editBeforeRun="true" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FibonacciSearch" RUN_TARGET_NAME="FibonacciSearch" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -106,6 +116,7 @@
     <list>
       <item itemvalue="CMake Application.C++" />
       <item itemvalue="CMake Application.BaseAlgorithm" />
+      <item itemvalue="CMake Application.FibonacciSearch" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -124,6 +135,9 @@
       <workItem from="1572171134142" duration="4392000" />
       <workItem from="1572175940540" duration="3649000" />
       <workItem from="1572185872198" duration="7734000" />
+      <workItem from="1572841715012" duration="514000" />
+      <workItem from="1572842830886" duration="8533000" />
+      <workItem from="1573639991045" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="update Merger Sort Algorithm">
       <created>1572176632263</created>
