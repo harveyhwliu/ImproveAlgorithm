@@ -1,4 +1,4 @@
-# Install script for directory: /Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/001_two_sum
+# Install script for directory: /Users/harveyhwliu/CLionProjects/ImproveAlgorithm/Leetcode/001_two_sum
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/001_two_sum/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/harveyhwliu/CLionProjects/ImproveAlgorithm/Leetcode/001_two_sum/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

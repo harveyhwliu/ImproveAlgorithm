@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/001_two_sum/src/main.cpp" "/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/001_two_sum/cmake-build-debug/CMakeFiles/Leetcode.dir/src/main.cpp.o"
+  "/Users/harveyhwliu/CLionProjects/ImproveAlgorithm/Leetcode/001_two_sum/src/main.cpp" "/Users/harveyhwliu/CLionProjects/ImproveAlgorithm/Leetcode/001_two_sum/cmake-build-debug/CMakeFiles/Leetcode.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
