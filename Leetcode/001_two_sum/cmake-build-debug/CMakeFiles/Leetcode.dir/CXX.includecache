@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/001_two_sum/src/main.cpp
+iostream
+-
+vector
+-
+map
+-
+

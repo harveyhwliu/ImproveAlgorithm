@@ -1,7 +1,7 @@
  #1.cmake verson，指定cmake版本
- cmake_minimum_required(VERSION 3.2)
+ cmake_minimum_required(VERSION 3.6)
  #2.project name，指定项目的名称，一般和项目的文件夹名称对应
- PROJECT(SequenceSearch)
+ PROJECT(Leetcode)
  #3.head file path，头文件目录
  INCLUDE_DIRECTORIES(
     include
@@ -11,6 +11,12 @@
 
  #添加子目录
  #ADD_SUBDIRECTORY(src)
+
+ set(CMAKE_C_STANDARD 11)
+ set(CMAKE_COMPILER_IS_GNUCC TRUE)
+ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS}")
+ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -std=c++0x")
+
 
  #5.set environment variable，设置环境变量，编译用到的源文件全部都要放到这里，
  #否则编译能够通过，但是执行的时候会出现各种问题，比如"symbol lookup error xxxxx , undefined symbol"
