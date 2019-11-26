@@ -12,9 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abdf61d-ca72-41df-8fc3-e91095fc204f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/001_two_sum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/001_two_sum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Leetcode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,6 +137,7 @@
       <workItem from="1572841715012" duration="514000" />
       <workItem from="1572842830886" duration="8533000" />
       <workItem from="1573639991045" duration="148000" />
+      <workItem from="1574686178295" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="update Merger Sort Algorithm">
       <created>1572176632263</created>
