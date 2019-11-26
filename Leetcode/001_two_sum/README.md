@@ -49,9 +49,10 @@
             :rtype: List[int]
             """
             for _index,v in enumerate(nums):
-                if target - v in nums:
-                    return [_index,nums.index(target-v)]
-            return None
+                _val = target-v
+                _nums = nums[_index+1:]
+                if _val in _nums:
+                    return [_index,_index+1+_nums.index(_val)]
 ```
 
 
