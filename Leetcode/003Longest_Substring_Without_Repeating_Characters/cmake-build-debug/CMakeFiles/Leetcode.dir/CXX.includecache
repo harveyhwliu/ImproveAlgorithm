@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/huawei/liuhuawei/ProgramRepo/CCplus/GitRepo/ImproveAlgorithm/Leetcode/003Longest_Substring_Without_Repeating_Characters/src/main.cpp
+iostream
+-
+string
+-
+map
+-
+
