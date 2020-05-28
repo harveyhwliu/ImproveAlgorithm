@@ -1,9 +1,11 @@
 
 ## 001Two sum  -- 数组
+   
    题目：给定一个序列nums和一个和Sum，找出序列中任意两个元素相加等于该和值Sum的对一个的下标序列。<br/>
-   解法：<br/>
-     - 遍历数组,若当前下标 i1 满足，则Sum-nums[ i1 ]一定也在nums里面，因此返回[ i1, nums[ i1 + 1: ].index(Sum - nums[ i1 ])]即可<br/>
-     - 遍历数组，构建 缓存（map<int,int>）,如果当前遍历的下标 i1 满足条件，则Sums-nums[ i1 ]一定也在map中，否则缓存更新map[ nums[ i1 ] ] = i1, 最终返回[ i1, map[Sum - nums[ i1 ]]]<br/>
+   
+   解法：都需要遍历数组,当前遍历下标为 i ,则待查找值为t = Sums-nums[i]：<br/> 
+     - 若 t 在 nums[i+1:] 里面,则返回 [i,i+1+ nums[i+1:].index(t)] <br/> 
+     - 构建缓存map<int,int>，若缓存没找到num[i],则更新map[t] = i, 否则返回 [ map[num[i] ],i]<br/>
 
 
 
